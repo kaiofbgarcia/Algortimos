@@ -55,5 +55,4 @@ class NQueenProblemBB {
   }
 }
 
-// This code is contributed by sujitmeshram
 // Referencia : https://www.geeksforgeeks.org/n-queen-problem-using-branch-and-bound/
